@@ -1,6 +1,14 @@
-{
-  "song_name": "B.I.G.",
-  "artist_name": "Forrest Frank",
-  "base64_text_url": "https://cdn.jsdelivr.net/gh/virtuan4-max/leviathan@main/assets/1.txt",
-  "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/9/95/Forrest_Frank_Child_of_God_II.jpg"
-}
+[
+  {
+    "song_name": "B.I.G.",
+    "artist_name": "Forrest Frank",
+    "base64_text_url": "https://cdn.jsdelivr.net/gh/virtuan4-max/leviathan@main/assets/1.txt",
+    "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/9/95/Forrest_Frank_Child_of_God_II.jpg"
+  },
+  {
+    "song_name": "Propaganda",
+    "artist_name": "Cal Scrubby",
+    "base64_text_url": "https://cdn.jsdelivr.net/gh/virtuan4-max/leviathan@main/assets/2.txt",
+    "cover_image_url": "https://i.scdn.co/image/ab67616d0000b2738811b36d536c8b4f602cce6b"
+  }
+]
