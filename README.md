@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/virtuan4-max/leviathan/main/logo.png" alt="Leviathan Logo" width="200">
+  <img src="https://raw.githubusercontent.com/virtuan4-max/leviathan/main/favicon.png" alt="Leviathan Logo" width="200">
 </p>
 
 # leviathan
